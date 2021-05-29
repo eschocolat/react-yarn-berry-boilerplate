@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to react-css-utils 👋</h1>
+<h1 align="center">Welcome to react-yarn-berry-boilerplate 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/react-css-utils" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/react-css-utils.svg">
